@@ -17,6 +17,5 @@ Note for KSU users:
 Credits:
 - MTKVest Team
 - @MiAzami (MTKVest Owner)
-- @VelocityFox22 (VDT Dev)
 - @Nazephyrus (Main Supporter)
 - HoyoLab (Waifu)
