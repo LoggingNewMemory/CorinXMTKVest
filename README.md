@@ -6,6 +6,14 @@ DO NOT COMBINE WITH ANY PERFORMANCE MODULE OR THERMAL MODULE
 By: Kanagawa Yamada
 huge Thanks to: MTKVest Team & VDT Dev
 
+Note for KSU users:
+- Go to KSU and select Super User section
+- Click the three dots icon (next to search icon)
+- Find MTKVest app
+- Allow super user
+- Force Close MTKVest app (if you already open the app before)
+- Reopen the app
+
 Credits:
 - MTKVest Team
 - @MiAzami (MTKVest Owner)
