@@ -4,7 +4,7 @@ Corin X MTK Vest
 DO NOT COMBINE WITH ANY PERFORMANCE MODULE OR THERMAL MODULE
 
 By: Kanagawa Yamada
-huge Thanks to: MTKVest Team & VDT Dev
+huge Thanks to: MTKVest Team
 
 Note for KSU users:
 - Go to KSU and select Super User section
