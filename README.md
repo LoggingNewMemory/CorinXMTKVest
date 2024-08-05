@@ -1,5 +1,4 @@
-![Corin X MTKVest](https://github.com/user-attachments/assets/301ae134-fdd0-4d3a-89dc-a1df700545de)
-Corin X MTK Vest
+![Corin X MTKVest](https://github.com/user-attachments/assets/5804f453-1ece-4cbd-b272-012add107096)
 
 DO NOT COMBINE WITH ANY PERFORMANCE MODULE OR THERMAL MODULE
 
