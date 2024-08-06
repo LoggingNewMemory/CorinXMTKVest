@@ -8,7 +8,7 @@ Requires: Brutal Busybox (Download in release page)
 
 By: Kanagawa Yamada
 
-huge Thanks to: MTKVest Team
+Huge Thanks to: MTKVest Team
 
 Note for KSU users:
 - Go to KSU and select Super User section
