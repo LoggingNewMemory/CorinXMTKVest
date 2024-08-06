@@ -2,7 +2,7 @@
 
 DO NOT COMBINE WITH ANY PERFORMANCE MODULE OR THERMAL MODULE
 
-Requires: Brutal Busybox
+Requires: Brutal Busybox (Download in release page)
 
 By: Kanagawa Yamada
 huge Thanks to: MTKVest Team
