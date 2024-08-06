@@ -13,6 +13,9 @@ Note for KSU users:
 - Force Close MTKVest app (if you already open the app before)
 - Reopen the app
 
+Known Issue:
+- Need to reboot after applying different profiles in MTKVest Blaze app
+
 Credits:
 - MTKVest Team
 - @MiAzami (MTKVest Owner)
