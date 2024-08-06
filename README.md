@@ -1,11 +1,13 @@
 ![Corin X MTKVest](https://github.com/user-attachments/assets/5804f453-1ece-4cbd-b272-012add107096)
 
 DO NOT COMBINE WITH ANY PERFORMANCE MODULE
+
 Compatible With: G99 Series & MT 6833
 
 Requires: Brutal Busybox (Download in release page)
 
 By: Kanagawa Yamada
+
 huge Thanks to: MTKVest Team
 
 Note for KSU users:
