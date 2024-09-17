@@ -4,6 +4,8 @@ DO NOT COMBINE WITH ANY PERFORMANCE MODULE
 
 Compatible With: MT 6833 (MTK D6080)
 
+Needs: Brutal Busybox (Included in release page)
+
 By: Kanagawa Yamada & VDBay
 
 How to use:
