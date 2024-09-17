@@ -6,6 +6,12 @@ Compatible With: MT 6833 (MTK D6080)
 
 By: Kanagawa Yamada & VDBay
 
+How to use:
+- Install module
+- Install apk
+- Give root permission to apk
+- Done
+
 Collaboration Between KLC (Kanagawa Lab Community) and MTKVest
 
 Credits:
