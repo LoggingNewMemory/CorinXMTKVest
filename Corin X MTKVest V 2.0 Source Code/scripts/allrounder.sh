@@ -245,6 +245,6 @@ echo "0-6" > /dev/cpuset/camera-daemon/cpus
 echo "0" > /dev/cpuset/memory_pressure_enabled
 
 # Power Save Mode On
-settings put global low_power 1
+settings put global low_power 0
 
 su -lp 2000 -c "cmd notification post -S bigtext -t 'Corin X MTKVest' TagAllRounder 'All Rounder Mode Is Online!'"

@@ -6,6 +6,7 @@ for fbt in /sys/kernel/fpsgo/fbt
     do
         echo 95 > "$fbt/boost_ta"
         echo 0 > "$fbt/enable_switch_sync_flag"
+        echo 0 > "$fbt/enable_ceiling"
     done
     chmod 444 /sys/kernel/fpsgo/fstb/*
     

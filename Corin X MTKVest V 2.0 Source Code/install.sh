@@ -55,4 +55,4 @@ ui_print "        INSTALLING MODULES OK       "
 ui_print "💾--------------------------------💾"
 sleep 1.5
 
-#am start -a android.intent.action.VIEW -d https://t.me/KanagawaLabAnnouncement/21 >/dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://t.me/KanagawaLabAnnouncement/36 >/dev/null 2>&1
