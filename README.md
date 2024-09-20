@@ -1,5 +1,4 @@
-![Corin X MTKVest 3 0](https://github.com/user-attachments/assets/674904f6-6456-4277-89bb-b69a2d62672e)
-
+![Corin X MTKVest 4 0](https://github.com/user-attachments/assets/a739fb12-23a9-47ba-a51c-b89c3518fe99)
 
 DO NOT COMBINE WITH ANY PERFORMANCE MODULE
 
