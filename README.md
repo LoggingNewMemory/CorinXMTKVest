@@ -1,4 +1,4 @@
-![Corin X MTKVest 7 0](https://github.com/user-attachments/assets/09aa0436-edf0-4653-b8f0-664a56558625)
+![New Banner](https://github.com/user-attachments/assets/6df15810-601d-4f95-9be5-41d5aab4b1d5)
 
 DO NOT COMBINE WITH ANY PERFORMANCE MODULE
 
