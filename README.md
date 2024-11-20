@@ -1,4 +1,4 @@
-![New Banner](https://github.com/user-attachments/assets/6df15810-601d-4f95-9be5-41d5aab4b1d5)
+![New Banner](https://github.com/user-attachments/assets/9088daa2-f966-4fbe-8986-e03d103d2752)
 
 DO NOT COMBINE WITH ANY PERFORMANCE MODULE
 
